@@ -5,3 +5,6 @@ course work for CHL5223 Applied Bayesian Methods at University of Toronto
 
 ## [Assignment 2](https://github.com/BelinaJang/bayesian/blob/main/5223a2_belina.pdf)
 Gibbs sampler algorithm (a Markov chain Monte Carlo algorithm), bayesian Poisson regression, hierarchical model, convergence checking with traceplot and autocorrelation plots (ACF).
+
+## [Assignment 3](https://github.com/BelinaJang/bayesian/blob/main/5223a3_belina.pdf)
+Evaluated model calibration using posterior predictive checks, standardized residuals distribution etc.
